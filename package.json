@@ -1,0 +1,23 @@
+{
+  "name": "hooks-use-setinterval",
+  "version": "1.0.0",
+  "description": "A reack hooks, Provide the function of setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malian275/hooks-use-setinterval"
+  },
+  "keywords": [
+    "reack",
+    "hooks",
+    "setInterval"
+  ],
+  "author": "max210",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
